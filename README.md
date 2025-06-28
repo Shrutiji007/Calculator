@@ -45,7 +45,8 @@ This calculator supports basic math operations — addition, subtraction, multip
 ### 📱 Mobile View
 
 #### 🌞 Light Mode
-![Light Mobile](./light-mobile.png)
+![Light Mobile](./light-mobile.jpeg)
+
 
 #### 🌚 Dark Mode
 ![Dark Mobile](./dark-mobile.jpeg)
