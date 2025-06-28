@@ -32,7 +32,23 @@ This calculator supports basic math operations — addition, subtraction, multip
 
 ## 📸 Preview
 
-![Calculator Screenshot](https://raw.githubusercontent.com/Shrutiji007/Calculator/main/preview.png)
+### 💻 Desktop View
+
+#### 🌞 Light Mode
+![Light Desktop](./light-desktop.jpeg)
+
+#### 🌚 Dark Mode
+![Dark Desktop](./dark-desktop.jpeg)
+
+---
+
+### 📱 Mobile View
+
+#### 🌞 Light Mode
+![Light Mobile](./light-mobile.png)
+
+#### 🌚 Dark Mode
+![Dark Mobile](./dark-mobile.jpeg)
 
 ---
 
